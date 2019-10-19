@@ -1,5 +1,10 @@
 # The Gypsy Paradise
 This is a simple website with images.
+
+<!--
+Comment out
+-->
+
 <a src="mmao-org.github.io">mmao-org.github.io</a>
 
 <img src="IMG_0692.jpeg" alt="hi" class="inline"/>
