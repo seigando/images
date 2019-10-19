@@ -1,2 +1,3 @@
 # 01-images
-website with images
+This is a simple website with images.
+
