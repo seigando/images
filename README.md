@@ -4,6 +4,17 @@ This is a simple website with images.
 
 <img src="IMG_0692.jpeg" alt="hi" class="inline"/>
 <img src="IMG_0428.jpeg" alt="hi" class="inline"/>
+
+<img src="photos/DSCN1224.jpeg" alt="hi" class="inline"/>
+<img src="photos/DSCN1225.jpeg" alt="hi" class="inline"/>
+<img src="photos/DSCN1216.jpeg" alt="hi" class="inline"/>
+<img src="photos/DSCN1234.jpeg" alt="hi" class="inline"/>
+<img src="photos/DSCN1238.jpeg" alt="hi" class="inline"/>
+<img src="photos/DSCN1241.jpeg" alt="hi" class="inline"/>
+<img src="photos/DSCN1263.jpeg" alt="hi" class="inline"/>
+<img src="photos/DSCN1275.jpeg" alt="hi" class="inline"/>
+
+
 <img src="photos/IMG_0434.jpeg" alt="hi" class="inline"/>
 <img src="photos/IMG_0435.jpeg" alt="hi" class="inline"/>
 <img src="photos/IMG_0441.jpeg" alt="hi" class="inline"/>
