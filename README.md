@@ -30,10 +30,10 @@ Comment out
 <img src="photos/IMG_0441.jpeg" alt="hi" class="inline"/>
 <img src="photos/IMG_0443.jpeg" alt="hi" class="inline"/>
 <img src="photos/IMG_0447.jpeg" alt="hi" class="inline"/>
-<img src="photos/IMG_0449.jpeg" alt="hi" class="inline"/>
 
 <!--
 Comment out
+<img src="photos/IMG_0449.jpeg" alt="hi" class="inline"/>
 <img src="photos/IMG_0453.jpeg" alt="hi" class="inline"/>
 <img src="photos/IMG_0456.jpeg" alt="hi" class="inline"/>
 <img src="photos/IMG_0458.jpeg" alt="hi" class="inline"/>
